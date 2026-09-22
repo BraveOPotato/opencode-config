@@ -1,7 +1,7 @@
 ---
 description: Senior integration reviewer for difficult bugs, architectural drift, failed migrations, security issues, and cross-system problems.
 mode: subagent 
-model: anthropic/claude-opus-5#high
+model: anthropic/claude-opus-5-5#high
 steps: 16
 permissions:
   - action: edit

@@ -1,7 +1,7 @@
 ---
 description: Senior architect for large features, new applications, framework migrations, and architectural replanning.
 mode: subagent
-model: anthropic/claude-opus-5#high
+model: anthropic/claude-opus-5-5#high
 steps: 20
 permissions:
   - action: edit

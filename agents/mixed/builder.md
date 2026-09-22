@@ -1,7 +1,7 @@
 ---
 description: Primary implementation agent. Uses specialist agents for architecture and difficult integration issues.
 mode: primary
-model: openai/gpt-5.6-sol#medium
+model: openai/gpt-6-sol#medium
 permissions:
   - action: subagent
     resource: "*"

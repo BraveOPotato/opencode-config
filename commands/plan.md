@@ -1,7 +1,7 @@
 ---
 description: Plan with Claude Opus
 agent: plan
-model: anthropic/claude-opus-5
+model: anthropic/claude-opus-5-5
 ---
 
 Analyze $ARGUMENTS and produce a detailed implementation plan.
