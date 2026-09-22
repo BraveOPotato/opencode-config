@@ -1,0 +1,1 @@
+/home/abdullah/.local/share/ponytail/AGENTS.md

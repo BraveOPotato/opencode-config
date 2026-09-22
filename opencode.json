@@ -1,0 +1,24 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "plugins": [
+    "opencode-claude-auth-v2@latest"
+  ],
+  "skills": [
+    "~/.local/share/ponytail/skills"
+  ],
+  "subagent_depth": 1,
+  "default_agent": "stacks/mixed",
+  "mcp": {
+    "servers": {
+      "chrome-devtools": {
+        "type": "local",
+        "command": [
+          "npx",
+          "-y",
+          "chrome-devtools-mcp@latest",
+          "--browser-url=http://127.0.0.1:9222"
+        ]
+      }
+    }
+  }
+}
