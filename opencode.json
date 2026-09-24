@@ -19,6 +19,7 @@
           "--browser-url=http://127.0.0.1:9222"
         ]
       }
-    }
+    },
+    "codebase-memory-mcp": {"command":["/home/abdullah/.local/bin/codebase-memory-mcp"],"type":"local"}
   }
 }
