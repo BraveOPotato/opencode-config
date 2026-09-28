@@ -1,7 +1,7 @@
 ---
 description: Primary implementation agent. Uses specialist agents for architecture and difficult integration issues.
 mode: primary
-model: anthropic/claude-sonnet-5#high
+model: anthropic/claude-sonnet-5-5#high
 permissions:
   - action: subagent
     resource: "*"

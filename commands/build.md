@@ -1,7 +1,7 @@
 ---
 description: Implement with Claude Sonnet
 agent: build
-model: anthropic/claude-sonnet-5
+model: anthropic/claude-sonnet-5-5
 ---
 
 Implement the plan from the current conversation.
